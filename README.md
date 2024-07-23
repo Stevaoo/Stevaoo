@@ -4,7 +4,7 @@
 - 🌱 Estudando Typescript e SQL
 - 🤔 Pronomes ele/dele
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Stevaoo&show_icons=true&theme=github_dark" alt="Anurag's GitHub stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stevaoo&layout=compact&theme=github_dark" alt="Top Langs" height="150"/>
 </p>
