@@ -1,9 +1,5 @@
 ## Olá Eu sou o Stevaoo
 
-- 🔭 Hoje Estou estudando Front-end e Back-end
-- 🌱 Estudando Typescript e SQL
-- 🤔 Pronomes ele/dele
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Stevaoo&show_icons=true&theme=github_dark" alt="Anurag's GitHub stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stevaoo&layout=compact&theme=github_dark" alt="Top Langs" height="150"/>
@@ -19,7 +15,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-o
   <img align="center" alt="Tevo-Ts" height="50" width="60"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
           
-<img align="center" alt="tevo-gif" height="120" width="60" src="https://media4.giphy.com/media/xUNd9PkiBPoATX611u/giphy.gif">
+<img align="center" alt="tevo-gif" height="120" src="https://media4.giphy.com/media/xUNd9PkiBPoATX611u/giphy.gif">
 </div>
 
 ##
