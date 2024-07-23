@@ -1,8 +1,9 @@
 ## Olá Eu sou o Stevaoo
-<p align="center">
+<div style="display: flex; justify-content: space-around;">
   <img src="https://github-readme-stats.vercel.app/api?username=Stevaoo&show_icons=true&theme=github_dark" alt="Anurag's GitHub stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stevaoo&layout=compact&theme=github_dark" alt="Top Langs" height="150" />
-</p>
+</div>
+
 
 
 <br>
