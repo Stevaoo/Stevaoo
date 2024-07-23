@@ -19,7 +19,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-o
   <img align="center" alt="Tevo-Ts" height="50" width="60"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
           
-<img align="center" alt="tevo-gif" height="120" src="https://media4.giphy.com/media/xUNd9PkiBPoATX611u/giphy.gif">
+<img align="center" alt="tevo-gif" height="120" width="60" src="https://media4.giphy.com/media/xUNd9PkiBPoATX611u/giphy.gif">
 </div>
 
 ##
